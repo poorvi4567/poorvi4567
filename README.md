@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**poorvi4567/poorvi4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Poorvi!!</h1>
+<p align="center">
+  💻 Full Stack Developer | 🚀 AI/ML enthusiast | 🧠 Love learning 
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=poorvi4567&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=poorvi4567&theme=radical" width="48%" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+```js
+const me = {
+  name: "Poorvi",
+  role: ["Full Stack Developer","Student","AI/ML afficionado"].
+  location: "🌍 [Your Country or City]",
+  techStack: ["JavaScript", "Python", "React", "Streamlit", "Node.js","Java","HTML","R","ECL"
+],
+  currentlyLearning: "AI ⚙️ + Backend frameworks☁️",
+  hobbies: ["🎹Instrumentalist", "💃Dance", "📚Learning languages"],
+}
+
+
